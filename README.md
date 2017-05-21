@@ -1,5 +1,4 @@
 # hello-world
-This is just a repository I'm creating during the GitHub tutorial as I'm learning how to use the site.
 
 I have a couple projects I have in mind right now.
 1. I want to make a window manager I can use to make my own Mac OS 9-like desktop environment for Linux.
